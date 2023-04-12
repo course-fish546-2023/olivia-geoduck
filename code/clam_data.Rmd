@@ -1,0 +1,21 @@
+---
+title: "downloading clam transcriptomes"
+author: "Olivia"
+date: "2023-04-12"
+output: html_document
+---
+
+Mercenaria mercineria
+```{bash}
+
+```
+
+Manila Clam
+- downloaded from [NCBI]()
+- pushed to gannet
+- downloaded from gannet
+```{r}
+
+
+```
+
