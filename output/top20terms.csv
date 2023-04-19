@@ -1,0 +1,101 @@
+﻿order,transcriptome,Term_unique,n
+1,Pgenerosa,anatomical structure development,1128
+2,Pgenerosa,signaling,962
+3,Pgenerosa,cell differentiation,785
+4,Pgenerosa,DNA-templated transcription,422
+5,Pgenerosa,immune system process,413
+6,Pgenerosa,regulation of DNA-templated transcription,382
+7,Pgenerosa,cell motility,354
+8,Pgenerosa,programmed cell death,329
+9,Pgenerosa,reproductive process,318
+10,Pgenerosa,cytoskeleton organization,305
+11,Pgenerosa,vesicle-mediated transport,294
+12,Pgenerosa,protein-containing complex assembly,278
+13,Pgenerosa,cell adhesion,232
+14,Pgenerosa,lipid metabolic process,212
+15,Pgenerosa,nervous system process,210
+16,Pgenerosa,transmembrane transport,206
+17,Pgenerosa,mitotic cell cycle,200
+18,Pgenerosa,defense response to other organism,185
+19,Pgenerosa,carbohydrate derivative metabolic process,179
+20,Pgenerosa,protein catabolic process,178
+1,Manila,anatomical structure development,58
+2,Manila,signaling,53
+3,Manila,cell differentiation,37
+4,Manila,cytoskeleton organization,35
+5,Manila,DNA-templated transcription,20
+6,Manila,protein-containing complex assembly,20
+7,Manila,cell motility,18
+8,Manila,immune system process,18
+9,Manila,regulation of DNA-templated transcription,17
+10,Manila,mitotic cell cycle,16
+11,Manila,protein catabolic process,15
+12,Manila,reproductive process,15
+13,Manila,transmembrane transport,15
+14,Manila,vesicle-mediated transport,14
+15,Manila,nervous system process,13
+16,Manila,programmed cell death,13
+17,Manila,cilium organization,12
+18,Manila,mRNA metabolic process,11
+19,Manila,microtubule-based movement,11
+20,Manila,DNA repair,9
+1,Manila_r,anatomical structure development,67
+2,Manila_r,signaling,57
+3,Manila_r,cell differentiation,41
+4,Manila_r,cytoskeleton organization,36
+5,Manila_r,DNA-templated transcription,23
+6,Manila_r,protein-containing complex assembly,22
+7,Manila_r,regulation of DNA-templated transcription,20
+8,Manila_r,cell motility,19
+9,Manila_r,immune system process,19
+10,Manila_r,mitotic cell cycle,18
+11,Manila_r,reproductive process,18
+12,Manila_r,transmembrane transport,18
+13,Manila_r,protein catabolic process,17
+14,Manila_r,nervous system process,16
+15,Manila_r,programmed cell death,15
+16,Manila_r,vesicle-mediated transport,14
+17,Manila_r,mRNA metabolic process,13
+18,Manila_r,cilium organization,12
+19,Manila_r,microtubule-based movement,12
+20,Manila_r,DNA repair,10
+1,Mercenaria,anatomical structure development,137
+2,Mercenaria,signaling,105
+3,Mercenaria,cell differentiation,94
+4,Mercenaria,cytoskeleton organization,52
+5,Mercenaria,cell motility,48
+6,Mercenaria,DNA-templated transcription,45
+7,Mercenaria,regulation of DNA-templated transcription,42
+8,Mercenaria,reproductive process,38
+9,Mercenaria,immune system process,37
+10,Mercenaria,protein-containing complex assembly,37
+11,Mercenaria,vesicle-mediated transport,33
+12,Mercenaria,mitotic cell cycle,31
+13,Mercenaria,nervous system process,27
+14,Mercenaria,programmed cell death,27
+15,Mercenaria,cell adhesion,26
+16,Mercenaria,carbohydrate derivative metabolic process,25
+17,Mercenaria,lipid metabolic process,24
+18,Mercenaria,transmembrane transport,24
+19,Mercenaria,cilium organization,23
+20,Mercenaria,cell junction organization,22
+1,Mercenaria_r,anatomical structure development,456
+2,Mercenaria_r,signaling,370
+3,Mercenaria_r,cell differentiation,300
+4,Mercenaria_r,cell motility,146
+5,Mercenaria_r,cytoskeleton organization,144
+6,Mercenaria_r,DNA-templated transcription,136
+7,Mercenaria_r,immune system process,135
+8,Mercenaria_r,vesicle-mediated transport,128
+9,Mercenaria_r,regulation of DNA-templated transcription,126
+10,Mercenaria_r,reproductive process,118
+11,Mercenaria_r,programmed cell death,116
+12,Mercenaria_r,protein-containing complex assembly,115
+13,Mercenaria_r,cell adhesion,103
+14,Mercenaria_r,lipid metabolic process,94
+15,Mercenaria_r,nervous system process,86
+16,Mercenaria_r,carbohydrate derivative metabolic process,83
+17,Mercenaria_r,mitotic cell cycle,83
+18,Mercenaria_r,cell junction organization,75
+19,Mercenaria_r,protein catabolic process,71
+20,Mercenaria_r,transmembrane transport,71
