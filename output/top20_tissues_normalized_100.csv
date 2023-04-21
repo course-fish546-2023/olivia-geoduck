@@ -1,0 +1,101 @@
+"","Term_unique","tissue","n","tissue_n","normalized"
+"1","protein localization to plasma membrane","Pgenerosa",40,"heart_n",1
+"2","protein localization to plasma membrane","Pgenerosa",40,"juvenile_n",1
+"3","ribosome biogenesis","Pgenerosa",35,"heart_n",1
+"4","ribosome biogenesis","Pgenerosa",35,"juvenile_n",1
+"5","ribosome biogenesis","Pgenerosa",35,"larvae_n",1
+"6","ribosome biogenesis","Pgenerosa",35,"ctenidia_n",1
+"7","tRNA metabolic process","Pgenerosa",23,"heart_n",1
+"8","tRNA metabolic process","Pgenerosa",23,"juvenile_n",1
+"9","tRNA metabolic process","Pgenerosa",23,"larvae_n",1
+"10","tRNA metabolic process","Pgenerosa",23,"ctenidia_n",1
+"11","protein folding","Pgenerosa",16,"heart_n",1
+"12","protein folding","Pgenerosa",16,"juvenile_n",1
+"13","protein folding","Pgenerosa",16,"larvae_n",1
+"14","protein folding","Pgenerosa",16,"ctenidia_n",1
+"15","protein folding","Pgenerosa",16,"gonad_n",1
+"16","snRNA metabolic process","Pgenerosa",12,"heart_n",1
+"17","snRNA metabolic process","Pgenerosa",12,"juvenile_n",1
+"18","snRNA metabolic process","Pgenerosa",12,"larvae_n",1
+"19","snRNA metabolic process","Pgenerosa",12,"ctenidia_n",1
+"20","snRNA metabolic process","Pgenerosa",12,"gonad_n",1
+"21","respiratory system process","Pgenerosa",10,"juvenile_n",1
+"22","respiratory system process","Pgenerosa",10,"larvae_n",1
+"23","protein-containing complex assembly","Pgenerosa",278,"juvenile_n",0.989208633093525
+"24","protein catabolic process","Pgenerosa",178,"juvenile_n",0.98314606741573
+"25","regulation of DNA-templated transcription","Pgenerosa",382,"juvenile_n",0.981675392670157
+"26","signaling","Pgenerosa",962,"juvenile_n",0.975051975051975
+"27","protein localization to plasma membrane","Pgenerosa",40,"larvae_n",0.975
+"28","protein glycosylation","Pgenerosa",40,"juvenile_n",0.975
+"29","vesicle-mediated transport","Pgenerosa",294,"juvenile_n",0.972789115646258
+"30","protein catabolic process","Pgenerosa",178,"larvae_n",0.971910112359551
+"31","transmembrane transport","Pgenerosa",206,"juvenile_n",0.970873786407767
+"32","protein maturation","Pgenerosa",68,"juvenile_n",0.970588235294118
+"33","renal system process","Pgenerosa",34,"juvenile_n",0.970588235294118
+"34","sulfur compound metabolic process","Pgenerosa",64,"juvenile_n",0.96875
+"35","protein-containing complex assembly","Pgenerosa",278,"larvae_n",0.964028776978417
+"36","reproductive process","Pgenerosa",318,"juvenile_n",0.962264150943396
+"37","vitamin metabolic process","Pgenerosa",26,"juvenile_n",0.961538461538462
+"38","protein catabolic process","Pgenerosa",178,"heart_n",0.960674157303371
+"39","tRNA metabolic process","Pgenerosa",23,"gonad_n",0.956521739130435
+"40","sulfur compound metabolic process","Pgenerosa",64,"larvae_n",0.953125
+"41","protein localization to plasma membrane","Pgenerosa",40,"ctenidia_n",0.95
+"42","protein localization to plasma membrane","Pgenerosa",40,"gonad_n",0.95
+"43","protein-containing complex assembly","Pgenerosa",278,"heart_n",0.949640287769784
+"44","protein catabolic process","Pgenerosa",178,"ctenidia_n",0.949438202247191
+"45","ribosome biogenesis","Pgenerosa",35,"gonad_n",0.942857142857143
+"46","regulation of DNA-templated transcription","Pgenerosa",382,"larvae_n",0.942408376963351
+"47","protein-containing complex assembly","Pgenerosa",278,"ctenidia_n",0.935251798561151
+"48","protein glycosylation","Pgenerosa",40,"larvae_n",0.925
+"49","telomere organization","Pgenerosa",53,"juvenile_n",0.924528301886792
+"50","telomere organization","Pgenerosa",53,"larvae_n",0.924528301886792
+"51","vitamin metabolic process","Pgenerosa",26,"larvae_n",0.923076923076923
+"52","vesicle-mediated transport","Pgenerosa",294,"larvae_n",0.921768707482993
+"53","protein catabolic process","Pgenerosa",178,"gonad_n",0.921348314606742
+"54","signaling","Pgenerosa",962,"larvae_n",0.91995841995842
+"55","protein maturation","Pgenerosa",68,"larvae_n",0.911764705882353
+"56","wound healing","Pgenerosa",45,"juvenile_n",0.911111111111111
+"57","telomere organization","Pgenerosa",53,"ctenidia_n",0.905660377358491
+"58","regulation of DNA-templated transcription","Pgenerosa",382,"ctenidia_n",0.903141361256545
+"59","regulation of DNA-templated transcription","Pgenerosa",382,"heart_n",0.900523560209424
+"60","respiratory system process","Pgenerosa",10,"heart_n",0.9
+"61","respiratory system process","Pgenerosa",10,"ctenidia_n",0.9
+"62","reproductive process","Pgenerosa",318,"larvae_n",0.89937106918239
+"63","transmembrane transport","Pgenerosa",206,"larvae_n",0.898058252427185
+"64","renal system process","Pgenerosa",34,"larvae_n",0.882352941176471
+"65","vesicle-mediated transport","Pgenerosa",294,"heart_n",0.880952380952381
+"66","signaling","Pgenerosa",962,"ctenidia_n",0.878378378378378
+"67","signaling","Pgenerosa",962,"heart_n",0.871101871101871
+"68","telomere organization","Pgenerosa",53,"heart_n",0.867924528301887
+"69","protein maturation","Pgenerosa",68,"ctenidia_n",0.867647058823529
+"70","reproductive process","Pgenerosa",318,"ctenidia_n",0.858490566037736
+"71","vesicle-mediated transport","Pgenerosa",294,"ctenidia_n",0.850340136054422
+"72","protein-containing complex assembly","Pgenerosa",278,"gonad_n",0.848920863309353
+"73","transmembrane transport","Pgenerosa",206,"heart_n",0.844660194174757
+"74","wound healing","Pgenerosa",45,"larvae_n",0.844444444444444
+"75","sulfur compound metabolic process","Pgenerosa",64,"heart_n",0.84375
+"76","sulfur compound metabolic process","Pgenerosa",64,"gonad_n",0.84375
+"77","sulfur compound metabolic process","Pgenerosa",64,"ctenidia_n",0.828125
+"78","regulation of DNA-templated transcription","Pgenerosa",382,"gonad_n",0.827225130890052
+"79","reproductive process","Pgenerosa",318,"heart_n",0.827044025157233
+"80","transmembrane transport","Pgenerosa",206,"ctenidia_n",0.825242718446602
+"81","telomere organization","Pgenerosa",53,"gonad_n",0.811320754716981
+"82","protein maturation","Pgenerosa",68,"heart_n",0.808823529411765
+"83","protein glycosylation","Pgenerosa",40,"ctenidia_n",0.8
+"84","protein glycosylation","Pgenerosa",40,"gonad_n",0.8
+"85","respiratory system process","Pgenerosa",10,"gonad_n",0.8
+"86","signaling","Pgenerosa",962,"gonad_n",0.795218295218295
+"87","vesicle-mediated transport","Pgenerosa",294,"gonad_n",0.785714285714286
+"88","protein glycosylation","Pgenerosa",40,"heart_n",0.775
+"89","vitamin metabolic process","Pgenerosa",26,"ctenidia_n",0.769230769230769
+"90","renal system process","Pgenerosa",34,"heart_n",0.764705882352941
+"91","reproductive process","Pgenerosa",318,"gonad_n",0.735849056603774
+"92","protein maturation","Pgenerosa",68,"gonad_n",0.735294117647059
+"93","renal system process","Pgenerosa",34,"ctenidia_n",0.735294117647059
+"94","transmembrane transport","Pgenerosa",206,"gonad_n",0.723300970873786
+"95","wound healing","Pgenerosa",45,"heart_n",0.711111111111111
+"96","wound healing","Pgenerosa",45,"ctenidia_n",0.711111111111111
+"97","vitamin metabolic process","Pgenerosa",26,"heart_n",0.692307692307692
+"98","wound healing","Pgenerosa",45,"gonad_n",0.688888888888889
+"99","vitamin metabolic process","Pgenerosa",26,"gonad_n",0.615384615384615
+"100","renal system process","Pgenerosa",34,"gonad_n",0.529411764705882
