@@ -1,457 +1,356 @@
 "","tissue","Term_unique","n"
-"1","juvenile","anatomical structure development",1107
-"2","larvae","anatomical structure development",1050
-"3","ctenidia","anatomical structure development",994
-"4","heart","anatomical structure development",988
-"5","juvenile","signaling",938
-"6","gonad","anatomical structure development",898
-"7","larvae","signaling",885
-"8","ctenidia","signaling",845
-"9","heart","signaling",838
-"10","juvenile","cell differentiation",771
-"11","gonad","signaling",765
-"12","larvae","cell differentiation",728
-"13","heart","cell differentiation",690
-"14","ctenidia","cell differentiation",688
-"15","gonad","cell differentiation",627
-"16","juvenile","DNA-templated transcription",412
-"17","juvenile","immune system process",401
-"18","larvae","DNA-templated transcription",395
-"19","ctenidia","DNA-templated transcription",379
-"20","larvae","immune system process",379
-"21","heart","DNA-templated transcription",378
-"22","juvenile","regulation of DNA-templated transcription",375
-"23","larvae","regulation of DNA-templated transcription",360
-"24","ctenidia","immune system process",353
-"25","heart","immune system process",352
-"26","gonad","DNA-templated transcription",347
-"27","ctenidia","regulation of DNA-templated transcription",345
-"28","heart","regulation of DNA-templated transcription",344
-"29","juvenile","cell motility",344
-"30","gonad","immune system process",330
-"31","larvae","cell motility",325
-"32","juvenile","programmed cell death",321
-"33","gonad","regulation of DNA-templated transcription",316
-"34","larvae","programmed cell death",309
-"35","juvenile","reproductive process",306
-"36","ctenidia","cell motility",302
-"37","juvenile","cytoskeleton organization",301
-"38","ctenidia","programmed cell death",300
-"39","heart","cell motility",300
-"40","heart","programmed cell death",298
-"41","larvae","cytoskeleton organization",295
-"42","heart","cytoskeleton organization",287
-"43","juvenile","vesicle-mediated transport",286
-"44","larvae","reproductive process",286
-"45","ctenidia","cytoskeleton organization",283
-"46","gonad","programmed cell death",276
-"47","juvenile","protein-containing complex assembly",275
-"48","ctenidia","reproductive process",273
-"49","gonad","cell motility",273
-"50","larvae","vesicle-mediated transport",271
-"51","larvae","protein-containing complex assembly",268
-"52","gonad","cytoskeleton organization",267
-"53","heart","protein-containing complex assembly",264
-"54","heart","reproductive process",263
-"55","ctenidia","protein-containing complex assembly",260
-"56","heart","vesicle-mediated transport",259
-"57","ctenidia","vesicle-mediated transport",250
-"58","gonad","protein-containing complex assembly",236
-"59","gonad","reproductive process",234
-"60","gonad","vesicle-mediated transport",231
-"61","juvenile","cell adhesion",225
-"62","larvae","cell adhesion",212
-"63","juvenile","lipid metabolic process",207
-"64","juvenile","nervous system process",207
-"65","juvenile","transmembrane transport",200
-"66","larvae","lipid metabolic process",198
-"67","ctenidia","cell adhesion",197
-"68","juvenile","mitotic cell cycle",193
-"69","heart","cell adhesion",192
-"70","heart","lipid metabolic process",190
-"71","larvae","mitotic cell cycle",189
-"72","ctenidia","lipid metabolic process",188
-"73","ctenidia","mitotic cell cycle",187
-"74","larvae","nervous system process",186
-"75","larvae","transmembrane transport",185
-"76","heart","mitotic cell cycle",178
-"77","juvenile","defense response to other organism",178
-"78","gonad","mitotic cell cycle",177
-"79","juvenile","protein catabolic process",175
-"80","heart","transmembrane transport",174
-"81","juvenile","cell junction organization",174
-"82","gonad","cell adhesion",173
-"83","heart","nervous system process",173
-"84","juvenile","carbohydrate derivative metabolic process",173
-"85","larvae","protein catabolic process",173
-"86","ctenidia","nervous system process",172
-"87","gonad","lipid metabolic process",171
-"88","heart","protein catabolic process",171
-"89","ctenidia","transmembrane transport",170
-"90","larvae","defense response to other organism",170
-"91","ctenidia","protein catabolic process",169
-"92","larvae","carbohydrate derivative metabolic process",167
-"93","gonad","protein catabolic process",164
-"94","larvae","cell junction organization",163
-"95","heart","defense response to other organism",162
-"96","ctenidia","defense response to other organism",161
-"97","heart","cell junction organization",154
-"98","ctenidia","cell junction organization",152
-"99","ctenidia","carbohydrate derivative metabolic process",150
-"100","gonad","transmembrane transport",149
-"101","juvenile","membrane organization",149
-"102","gonad","defense response to other organism",148
-"103","heart","carbohydrate derivative metabolic process",148
-"104","larvae","membrane organization",145
-"105","gonad","nervous system process",144
-"106","heart","membrane organization",144
-"107","gonad","carbohydrate derivative metabolic process",139
-"108","gonad","cell junction organization",139
-"109","ctenidia","membrane organization",137
-"110","juvenile","intracellular protein transport",130
-"111","gonad","membrane organization",127
-"112","larvae","intracellular protein transport",126
-"113","heart","intracellular protein transport",122
-"114","ctenidia","intracellular protein transport",121
-"115","juvenile","circulatory system process",118
-"116","gonad","intracellular protein transport",115
-"117","juvenile","carbohydrate metabolic process",110
-"118","juvenile","mRNA metabolic process",109
-"119","larvae","carbohydrate metabolic process",107
-"120","larvae","mRNA metabolic process",105
-"121","ctenidia","mRNA metabolic process",104
-"122","heart","mRNA metabolic process",104
-"123","juvenile","cilium organization",104
-"124","larvae","circulatory system process",103
-"125","larvae","cilium organization",102
-"126","ctenidia","carbohydrate metabolic process",100
-"127","gonad","mRNA metabolic process",99
-"128","heart","circulatory system process",99
-"129","juvenile","DNA repair",99
-"130","heart","cilium organization",98
-"131","larvae","DNA repair",98
-"132","ctenidia","cilium organization",97
-"133","heart","carbohydrate metabolic process",96
-"134","ctenidia","DNA repair",95
-"135","juvenile","autophagy",95
-"136","gonad","DNA repair",94
-"137","gonad","cilium organization",94
-"138","heart","autophagy",94
-"139","larvae","autophagy",94
-"140","ctenidia","autophagy",93
-"141","heart","DNA repair",93
-"142","ctenidia","circulatory system process",90
-"143","juvenile","mitochondrion organization",90
-"144","larvae","mitochondrion organization",90
-"145","heart","mitochondrion organization",89
-"146","ctenidia","mitochondrion organization",88
-"147","juvenile","nucleobase-containing small molecule metabolic process",87
-"148","gonad","carbohydrate metabolic process",86
-"149","gonad","circulatory system process",86
-"150","gonad","autophagy",85
-"151","larvae","nucleobase-containing small molecule metabolic process",85
-"152","juvenile","microtubule-based movement",84
-"153","gonad","mitochondrion organization",83
-"154","larvae","microtubule-based movement",83
-"155","heart","nucleobase-containing small molecule metabolic process",80
-"156","ctenidia","nucleobase-containing small molecule metabolic process",79
-"157","heart","microtubule-based movement",78
-"158","ctenidia","microtubule-based movement",76
-"159","gonad","microtubule-based movement",75
-"160","juvenile","muscle system process",74
-"161","gonad","nucleobase-containing small molecule metabolic process",73
-"162","juvenile","chromosome segregation",73
-"163","juvenile","inflammatory response",71
-"164","larvae","chromosome segregation",70
-"165","gonad","chromosome segregation",69
-"166","juvenile","DNA recombination",69
-"167","larvae","muscle system process",69
-"168","ctenidia","chromosome segregation",68
-"169","heart","chromosome segregation",67
-"170","juvenile","mitotic nuclear division",67
-"171","juvenile","protein maturation",66
-"172","larvae","DNA recombination",66
-"173","larvae","inflammatory response",66
-"174","larvae","mitotic nuclear division",65
-"175","ctenidia","DNA recombination",64
-"176","gonad","DNA recombination",64
-"177","ctenidia","mitotic nuclear division",63
-"178","heart","muscle system process",63
-"179","juvenile","generation of precursor metabolites and energy",63
-"180","juvenile","nucleocytoplasmic transport",63
-"181","gonad","mitotic nuclear division",62
-"182","heart","DNA recombination",62
-"183","heart","generation of precursor metabolites and energy",62
-"184","juvenile","sulfur compound metabolic process",62
-"185","larvae","generation of precursor metabolites and energy",62
-"186","larvae","protein maturation",62
-"187","ctenidia","generation of precursor metabolites and energy",61
-"188","ctenidia","inflammatory response",61
-"189","heart","inflammatory response",61
-"190","heart","nucleocytoplasmic transport",61
-"191","larvae","nucleocytoplasmic transport",61
-"192","larvae","sulfur compound metabolic process",61
-"193","ctenidia","nucleocytoplasmic transport",59
-"194","ctenidia","protein maturation",59
-"195","heart","mitotic nuclear division",59
-"196","juvenile","chromatin organization",59
-"197","ctenidia","muscle system process",58
-"198","gonad","generation of precursor metabolites and energy",58
-"199","juvenile","establishment or maintenance of cell polarity",58
-"200","ctenidia","establishment or maintenance of cell polarity",57
-"201","juvenile","DNA replication",57
-"202","larvae","DNA replication",57
-"203","larvae","establishment or maintenance of cell polarity",57
-"204","ctenidia","DNA replication",56
-"205","ctenidia","chromatin organization",56
-"206","heart","chromatin organization",56
-"207","larvae","chromatin organization",56
-"208","gonad","nucleocytoplasmic transport",55
-"209","heart","protein maturation",55
-"210","gonad","DNA replication",54
-"211","gonad","chromatin organization",54
-"212","gonad","inflammatory response",54
-"213","gonad","sulfur compound metabolic process",54
-"214","heart","sulfur compound metabolic process",54
-"215","ctenidia","sulfur compound metabolic process",53
-"216","gonad","muscle system process",53
-"217","gonad","cytokinesis",52
-"218","heart","DNA replication",52
-"219","heart","cytokinesis",52
-"220","heart","establishment or maintenance of cell polarity",52
-"221","juvenile","cytokinesis",52
-"222","larvae","cytokinesis",52
-"223","ctenidia","cytokinesis",51
-"224","gonad","protein maturation",50
-"225","juvenile","telomere organization",49
-"226","larvae","telomere organization",49
-"227","ctenidia","telomere organization",48
-"228","gonad","establishment or maintenance of cell polarity",46
-"229","heart","telomere organization",46
-"230","juvenile","cellular amino acid metabolic process",45
-"231","juvenile","cellular modified amino acid metabolic process",45
-"232","larvae","cellular modified amino acid metabolic process",44
-"233","gonad","telomere organization",43
-"234","larvae","cellular amino acid metabolic process",43
-"235","juvenile","meiotic nuclear division",41
-"236","juvenile","wound healing",41
-"237","heart","protein localization to plasma membrane",40
-"238","juvenile","protein localization to plasma membrane",40
-"239","heart","cellular amino acid metabolic process",39
-"240","heart","cellular modified amino acid metabolic process",39
-"241","juvenile","protein glycosylation",39
-"242","larvae","protein localization to plasma membrane",39
-"243","ctenidia","protein localization to plasma membrane",38
-"244","gonad","cellular amino acid metabolic process",38
-"245","gonad","protein localization to plasma membrane",38
-"246","larvae","meiotic nuclear division",38
-"247","larvae","wound healing",38
-"248","ctenidia","cellular modified amino acid metabolic process",37
-"249","gonad","cellular modified amino acid metabolic process",37
-"250","heart","meiotic nuclear division",37
-"251","larvae","protein glycosylation",37
-"252","ctenidia","cellular amino acid metabolic process",36
-"253","ctenidia","meiotic nuclear division",36
-"254","gonad","meiotic nuclear division",36
-"255","ctenidia","ribosome biogenesis",35
-"256","heart","ribosome biogenesis",35
-"257","juvenile","ribosome biogenesis",35
-"258","larvae","ribosome biogenesis",35
-"259","gonad","ribosome biogenesis",33
-"260","juvenile","renal system process",33
-"261","ctenidia","protein glycosylation",32
-"262","ctenidia","wound healing",32
-"263","gonad","protein glycosylation",32
-"264","heart","wound healing",32
-"265","gonad","wound healing",31
-"266","heart","protein glycosylation",31
-"267","larvae","renal system process",30
-"268","juvenile","extracellular matrix organization",29
-"269","juvenile","digestive system process",27
-"270","heart","renal system process",26
-"271","ctenidia","renal system process",25
-"272","juvenile","vitamin metabolic process",25
-"273","juvenile","gene silencing by RNA",24
-"274","larvae","extracellular matrix organization",24
-"275","larvae","vitamin metabolic process",24
-"276","ctenidia","tRNA metabolic process",23
-"277","heart","gene silencing by RNA",23
-"278","heart","tRNA metabolic process",23
-"279","juvenile","endocrine process",23
-"280","juvenile","tRNA metabolic process",23
-"281","larvae","gene silencing by RNA",23
-"282","larvae","tRNA metabolic process",23
-"283","ctenidia","gene silencing by RNA",22
-"284","gonad","gene silencing by RNA",22
-"285","gonad","tRNA metabolic process",22
-"286","larvae","endocrine process",22
-"287","heart","extracellular matrix organization",21
-"288","larvae","digestive system process",21
-"289","ctenidia","vitamin metabolic process",20
-"290","heart","digestive system process",19
-"291","ctenidia","extracellular matrix organization",18
-"292","gonad","renal system process",18
-"293","heart","vitamin metabolic process",18
-"294","gonad","extracellular matrix organization",17
-"295","ctenidia","protein folding",16
-"296","gonad","protein folding",16
-"297","gonad","vitamin metabolic process",16
-"298","heart","endocrine process",16
-"299","heart","protein folding",16
-"300","juvenile","protein folding",16
-"301","larvae","protein folding",16
-"302","ctenidia","digestive system process",15
-"303","ctenidia","cytoplasmic translation",14
-"304","ctenidia","endocrine process",14
-"305","gonad","cytoplasmic translation",14
-"306","gonad","digestive system process",14
-"307","heart","cytoplasmic translation",14
-"308","juvenile","cytoplasmic translation",14
-"309","juvenile","lysosome organization",14
-"310","larvae","cytoplasmic translation",14
-"311","larvae","lysosome organization",14
-"312","ctenidia","lysosome organization",13
-"313","ctenidia","mitochondrial gene expression",13
-"314","heart","lysosome organization",13
-"315","heart","mitochondrial gene expression",13
-"316","juvenile","mitochondrial gene expression",13
-"317","larvae","mitochondrial gene expression",13
-"318","ctenidia","snRNA metabolic process",12
-"319","gonad","endocrine process",12
-"320","gonad","lysosome organization",12
-"321","gonad","mitochondrial gene expression",12
-"322","gonad","snRNA metabolic process",12
-"323","heart","snRNA metabolic process",12
-"324","juvenile","snRNA metabolic process",12
-"325","larvae","snRNA metabolic process",12
-"326","ctenidia","detoxification",10
-"327","gonad","detoxification",10
-"328","heart","detoxification",10
-"329","juvenile","detoxification",10
-"330","juvenile","respiratory system process",10
-"331","larvae","detoxification",10
-"332","larvae","respiratory system process",10
-"333","ctenidia","respiratory system process",9
-"334","heart","respiratory system process",9
-"335","ctenidia","cell wall organization or biogenesis",8
-"336","gonad","respiratory system process",8
-"337","juvenile","cell wall organization or biogenesis",8
-"338","larvae","cell wall organization or biogenesis",8
-"339","heart","cell wall organization or biogenesis",7
-"340","ctenidia","peroxisome organization",6
-"341","gonad","cell wall organization or biogenesis",6
-"342","gonad","peroxisome organization",6
-"343","heart","peroxisome organization",6
-"344","juvenile","peroxisome organization",6
-"345","larvae","peroxisome organization",6
-"346","juvenile","GO:0006629",3
-"347","juvenile","nitrogen cycle metabolic process",3
-"348","larvae","GO:0006629",3
-"349","larvae","nitrogen cycle metabolic process",3
-"350","ctenidia","GO:0006629",2
-"351","ctenidia","GO:0055086",2
-"352","gonad","GO:0055086",2
-"353","gonad","nitrogen cycle metabolic process",2
-"354","heart","GO:0002376",2
-"355","heart","GO:0006629",2
-"356","heart","GO:0016071",2
-"357","heart","GO:0023052",2
-"358","heart","GO:0048856",2
-"359","heart","GO:0055086",2
-"360","heart","GO:0098542",2
-"361","heart","nitrogen cycle metabolic process",2
-"362","juvenile","GO:0002376",2
-"363","juvenile","GO:0016071",2
-"364","juvenile","GO:0023052",2
-"365","juvenile","GO:0048856",2
-"366","juvenile","GO:0055086",2
-"367","juvenile","GO:0098542",2
-"368","larvae","GO:0002376",2
-"369","larvae","GO:0016071",2
-"370","larvae","GO:0023052",2
-"371","larvae","GO:0048856",2
-"372","larvae","GO:0098542",2
-"373","ctenidia","",1
-"374","ctenidia","GO:0005975",1
-"375","ctenidia","GO:0006766",1
-"376","ctenidia","GO:0006790",1
-"377","ctenidia","GO:0016021",1
-"378","ctenidia","GO:0016071",1
-"379","ctenidia","GO:0033644",1
-"380","ctenidia","GO:0044172",1
-"381","ctenidia","GO:0044220",1
-"382","ctenidia","GO:0048856",1
-"383","ctenidia","GO:1901135",1
-"384","ctenidia","NA",1
-"385","ctenidia","nitrogen cycle metabolic process",1
-"386","gonad","",1
-"387","gonad","GO:0005975",1
-"388","gonad","GO:0006629",1
-"389","gonad","GO:0006766",1
-"390","gonad","GO:0006790",1
-"391","gonad","GO:0016021",1
-"392","gonad","GO:0016071",1
-"393","gonad","GO:0033644",1
-"394","gonad","GO:0044172",1
-"395","gonad","GO:0044220",1
-"396","gonad","GO:0048856",1
-"397","gonad","GO:1901135",1
-"398","gonad","NA",1
-"399","heart","",1
-"400","heart","GO:0005975",1
-"401","heart","GO:0006766",1
-"402","heart","GO:0006790",1
-"403","heart","GO:0006914",1
-"404","heart","GO:0006954",1
-"405","heart","GO:0012501",1
-"406","heart","GO:0016021",1
-"407","heart","GO:0016192",1
-"408","heart","GO:0022414",1
-"409","heart","GO:0030154",1
-"410","heart","GO:0033644",1
-"411","heart","GO:0034330",1
-"412","heart","GO:0044172",1
-"413","heart","GO:0044220",1
-"414","heart","GO:0055085",1
-"415","heart","GO:0061024",1
-"416","heart","GO:1901135",1
-"417","heart","NA",1
-"418","juvenile","",1
-"419","juvenile","GO:0005975",1
-"420","juvenile","GO:0006766",1
-"421","juvenile","GO:0006790",1
-"422","juvenile","GO:0006914",1
-"423","juvenile","GO:0006954",1
-"424","juvenile","GO:0012501",1
-"425","juvenile","GO:0016021",1
-"426","juvenile","GO:0016192",1
-"427","juvenile","GO:0022414",1
-"428","juvenile","GO:0030154",1
-"429","juvenile","GO:0033644",1
-"430","juvenile","GO:0034330",1
-"431","juvenile","GO:0044172",1
-"432","juvenile","GO:0044220",1
-"433","juvenile","GO:0055085",1
-"434","juvenile","GO:0061024",1
-"435","juvenile","GO:1901135",1
-"436","juvenile","NA",1
-"437","larvae","",1
-"438","larvae","GO:0005975",1
-"439","larvae","GO:0006766",1
-"440","larvae","GO:0006790",1
-"441","larvae","GO:0006914",1
-"442","larvae","GO:0006954",1
-"443","larvae","GO:0012501",1
-"444","larvae","GO:0016021",1
-"445","larvae","GO:0016192",1
-"446","larvae","GO:0022414",1
-"447","larvae","GO:0030154",1
-"448","larvae","GO:0033644",1
-"449","larvae","GO:0034330",1
-"450","larvae","GO:0044172",1
-"451","larvae","GO:0044220",1
-"452","larvae","GO:0055085",1
-"453","larvae","GO:0055086",1
-"454","larvae","GO:0061024",1
-"455","larvae","GO:1901135",1
-"456","larvae","NA",1
+"1","juvenile","anatomical structure development",1817
+"2","larvae","anatomical structure development",1743
+"3","heart","anatomical structure development",1678
+"4","ctenidia","anatomical structure development",1661
+"5","juvenile","signaling",1572
+"6","gonad","anatomical structure development",1524
+"7","larvae","signaling",1501
+"8","heart","signaling",1449
+"9","ctenidia","signaling",1437
+"10","gonad","signaling",1313
+"11","juvenile","cell differentiation",1256
+"12","larvae","cell differentiation",1206
+"13","heart","cell differentiation",1164
+"14","ctenidia","cell differentiation",1142
+"15","gonad","cell differentiation",1050
+"16","juvenile","DNA-templated transcription",728
+"17","larvae","DNA-templated transcription",705
+"18","heart","DNA-templated transcription",681
+"19","ctenidia","DNA-templated transcription",675
+"20","juvenile","regulation of DNA-templated transcription",668
+"21","juvenile","immune system process",660
+"22","larvae","regulation of DNA-templated transcription",647
+"23","gonad","DNA-templated transcription",625
+"24","larvae","immune system process",625
+"25","heart","regulation of DNA-templated transcription",622
+"26","ctenidia","regulation of DNA-templated transcription",617
+"27","heart","immune system process",600
+"28","ctenidia","immune system process",599
+"29","juvenile","programmed cell death",593
+"30","juvenile","cell motility",583
+"31","larvae","programmed cell death",577
+"32","gonad","regulation of DNA-templated transcription",572
+"33","gonad","immune system process",561
+"34","heart","programmed cell death",558
+"35","ctenidia","programmed cell death",557
+"36","larvae","cell motility",554
+"37","ctenidia","cell motility",518
+"38","heart","cell motility",518
+"39","juvenile","reproductive process",514
+"40","gonad","programmed cell death",510
+"41","juvenile","cytoskeleton organization",509
+"42","larvae","cytoskeleton organization",499
+"43","larvae","reproductive process",495
+"44","ctenidia","cytoskeleton organization",489
+"45","heart","cytoskeleton organization",489
+"46","gonad","cell motility",479
+"47","juvenile","vesicle-mediated transport",474
+"48","ctenidia","reproductive process",473
+"49","heart","reproductive process",461
+"50","larvae","vesicle-mediated transport",456
+"51","gonad","cytoskeleton organization",452
+"52","heart","vesicle-mediated transport",447
+"53","juvenile","protein-containing complex assembly",436
+"54","ctenidia","vesicle-mediated transport",435
+"55","larvae","protein-containing complex assembly",424
+"56","gonad","reproductive process",423
+"57","heart","protein-containing complex assembly",421
+"58","ctenidia","protein-containing complex assembly",419
+"59","gonad","vesicle-mediated transport",402
+"60","gonad","protein-containing complex assembly",379
+"61","juvenile","cell adhesion",379
+"62","larvae","cell adhesion",361
+"63","juvenile","mitotic cell cycle",356
+"64","juvenile","nervous system process",348
+"65","larvae","mitotic cell cycle",348
+"66","juvenile","lipid metabolic process",346
+"67","ctenidia","mitotic cell cycle",344
+"68","ctenidia","cell adhesion",342
+"69","heart","cell adhesion",341
+"70","heart","mitotic cell cycle",334
+"71","larvae","lipid metabolic process",333
+"72","larvae","nervous system process",327
+"73","heart","lipid metabolic process",321
+"74","juvenile","transmembrane transport",321
+"75","ctenidia","lipid metabolic process",317
+"76","gonad","mitotic cell cycle",316
+"77","gonad","cell adhesion",305
+"78","heart","nervous system process",304
+"79","ctenidia","nervous system process",298
+"80","juvenile","protein catabolic process",297
+"81","larvae","transmembrane transport",296
+"82","juvenile","carbohydrate derivative metabolic process",295
+"83","larvae","protein catabolic process",294
+"84","ctenidia","protein catabolic process",291
+"85","heart","protein catabolic process",291
+"86","gonad","lipid metabolic process",290
+"87","juvenile","defense response to other organism",289
+"88","larvae","carbohydrate derivative metabolic process",288
+"89","heart","transmembrane transport",285
+"90","juvenile","cell junction organization",277
+"91","ctenidia","transmembrane transport",274
+"92","gonad","protein catabolic process",274
+"93","juvenile","membrane organization",272
+"94","larvae","defense response to other organism",272
+"95","heart","carbohydrate derivative metabolic process",269
+"96","ctenidia","defense response to other organism",268
+"97","heart","defense response to other organism",268
+"98","ctenidia","carbohydrate derivative metabolic process",264
+"99","larvae","membrane organization",264
+"100","larvae","cell junction organization",260
+"101","heart","membrane organization",259
+"102","gonad","nervous system process",257
+"103","ctenidia","membrane organization",254
+"104","heart","cell junction organization",252
+"105","gonad","carbohydrate derivative metabolic process",251
+"106","ctenidia","cell junction organization",249
+"107","gonad","transmembrane transport",248
+"108","gonad","defense response to other organism",247
+"109","gonad","membrane organization",232
+"110","gonad","cell junction organization",227
+"111","juvenile","intracellular protein transport",218
+"112","larvae","intracellular protein transport",213
+"113","heart","intracellular protein transport",211
+"114","ctenidia","intracellular protein transport",208
+"115","gonad","intracellular protein transport",196
+"116","juvenile","mRNA metabolic process",193
+"117","larvae","mRNA metabolic process",189
+"118","heart","mRNA metabolic process",188
+"119","ctenidia","mRNA metabolic process",187
+"120","juvenile","circulatory system process",182
+"121","gonad","mRNA metabolic process",180
+"122","juvenile","cilium organization",178
+"123","juvenile","DNA repair",177
+"124","larvae","DNA repair",176
+"125","larvae","cilium organization",175
+"126","ctenidia","cilium organization",174
+"127","heart","cilium organization",174
+"128","ctenidia","DNA repair",173
+"129","heart","DNA repair",170
+"130","gonad","DNA repair",168
+"131","juvenile","nucleobase-containing small molecule metabolic process",168
+"132","gonad","cilium organization",167
+"133","larvae","nucleobase-containing small molecule metabolic process",167
+"134","larvae","circulatory system process",165
+"135","juvenile","mitochondrion organization",164
+"136","larvae","mitochondrion organization",163
+"137","heart","mitochondrion organization",162
+"138","heart","nucleobase-containing small molecule metabolic process",161
+"139","ctenidia","mitochondrion organization",160
+"140","juvenile","autophagy",159
+"141","juvenile","carbohydrate metabolic process",159
+"142","ctenidia","nucleobase-containing small molecule metabolic process",158
+"143","juvenile","microtubule-based movement",157
+"144","heart","circulatory system process",155
+"145","larvae","autophagy",155
+"146","larvae","carbohydrate metabolic process",155
+"147","ctenidia","autophagy",154
+"148","gonad","nucleobase-containing small molecule metabolic process",154
+"149","heart","autophagy",154
+"150","gonad","mitochondrion organization",153
+"151","larvae","microtubule-based movement",153
+"152","ctenidia","circulatory system process",149
+"153","heart","microtubule-based movement",149
+"154","ctenidia","microtubule-based movement",148
+"155","ctenidia","carbohydrate metabolic process",147
+"156","gonad","autophagy",145
+"157","heart","carbohydrate metabolic process",143
+"158","gonad","microtubule-based movement",141
+"159","gonad","circulatory system process",140
+"160","juvenile","chromosome segregation",137
+"161","gonad","carbohydrate metabolic process",134
+"162","larvae","chromosome segregation",134
+"163","juvenile","inflammatory response",132
+"164","ctenidia","chromosome segregation",131
+"165","gonad","chromosome segregation",131
+"166","juvenile","mitotic nuclear division",131
+"167","heart","chromosome segregation",130
+"168","ctenidia","mitotic nuclear division",127
+"169","larvae","inflammatory response",127
+"170","larvae","mitotic nuclear division",127
+"171","heart","mitotic nuclear division",124
+"172","juvenile","muscle system process",123
+"173","juvenile","DNA recombination",122
+"174","gonad","mitotic nuclear division",120
+"175","ctenidia","inflammatory response",119
+"176","larvae","DNA recombination",119
+"177","ctenidia","DNA recombination",116
+"178","larvae","muscle system process",116
+"179","heart","inflammatory response",115
+"180","gonad","DNA recombination",114
+"181","heart","DNA recombination",114
+"182","juvenile","chromatin organization",113
+"183","heart","chromatin organization",110
+"184","juvenile","sulfur compound metabolic process",109
+"185","ctenidia","chromatin organization",108
+"186","juvenile","nucleocytoplasmic transport",108
+"187","larvae","chromatin organization",108
+"188","heart","nucleocytoplasmic transport",106
+"189","juvenile","protein maturation",106
+"190","larvae","nucleocytoplasmic transport",106
+"191","larvae","sulfur compound metabolic process",106
+"192","gonad","chromatin organization",105
+"193","heart","muscle system process",105
+"194","juvenile","establishment or maintenance of cell polarity",105
+"195","juvenile","generation of precursor metabolites and energy",105
+"196","ctenidia","muscle system process",104
+"197","ctenidia","nucleocytoplasmic transport",104
+"198","larvae","generation of precursor metabolites and energy",103
+"199","gonad","inflammatory response",102
+"200","heart","generation of precursor metabolites and energy",102
+"201","larvae","establishment or maintenance of cell polarity",102
+"202","ctenidia","establishment or maintenance of cell polarity",101
+"203","heart","establishment or maintenance of cell polarity",100
+"204","heart","sulfur compound metabolic process",100
+"205","larvae","protein maturation",100
+"206","ctenidia","DNA replication",99
+"207","ctenidia","generation of precursor metabolites and energy",99
+"208","ctenidia","protein maturation",99
+"209","gonad","generation of precursor metabolites and energy",99
+"210","juvenile","DNA replication",99
+"211","heart","protein maturation",98
+"212","larvae","DNA replication",98
+"213","ctenidia","sulfur compound metabolic process",97
+"214","gonad","nucleocytoplasmic transport",97
+"215","gonad","DNA replication",96
+"216","gonad","sulfur compound metabolic process",96
+"217","heart","DNA replication",94
+"218","juvenile","cytokinesis",91
+"219","juvenile","wound healing",91
+"220","larvae","cytokinesis",91
+"221","gonad","muscle system process",90
+"222","heart","cytokinesis",90
+"223","ctenidia","cytokinesis",89
+"224","gonad","cytokinesis",87
+"225","gonad","establishment or maintenance of cell polarity",86
+"226","gonad","protein maturation",86
+"227","juvenile","cellular amino acid metabolic process",86
+"228","larvae","wound healing",86
+"229","larvae","cellular amino acid metabolic process",83
+"230","heart","cellular amino acid metabolic process",81
+"231","gonad","cellular amino acid metabolic process",80
+"232","ctenidia","cellular amino acid metabolic process",78
+"233","heart","wound healing",78
+"234","ctenidia","wound healing",77
+"235","juvenile","telomere organization",77
+"236","larvae","telomere organization",77
+"237","ctenidia","telomere organization",76
+"238","juvenile","cellular modified amino acid metabolic process",76
+"239","heart","telomere organization",75
+"240","juvenile","meiotic nuclear division",74
+"241","larvae","cellular modified amino acid metabolic process",73
+"242","larvae","meiotic nuclear division",72
+"243","gonad","wound healing",71
+"244","gonad","telomere organization",70
+"245","heart","cellular modified amino acid metabolic process",70
+"246","ctenidia","ribosome biogenesis",69
+"247","heart","ribosome biogenesis",69
+"248","juvenile","ribosome biogenesis",69
+"249","larvae","ribosome biogenesis",69
+"250","ctenidia","meiotic nuclear division",68
+"251","heart","meiotic nuclear division",68
+"252","juvenile","protein localization to plasma membrane",68
+"253","gonad","meiotic nuclear division",67
+"254","gonad","ribosome biogenesis",67
+"255","heart","protein localization to plasma membrane",67
+"256","larvae","protein localization to plasma membrane",67
+"257","ctenidia","protein localization to plasma membrane",66
+"258","ctenidia","cellular modified amino acid metabolic process",65
+"259","gonad","cellular modified amino acid metabolic process",64
+"260","gonad","protein localization to plasma membrane",64
+"261","juvenile","extracellular matrix organization",55
+"262","juvenile","protein glycosylation",54
+"263","larvae","protein glycosylation",52
+"264","ctenidia","protein glycosylation",46
+"265","gonad","protein glycosylation",46
+"266","juvenile","renal system process",46
+"267","heart","protein glycosylation",45
+"268","larvae","extracellular matrix organization",45
+"269","larvae","renal system process",43
+"270","heart","extracellular matrix organization",42
+"271","ctenidia","extracellular matrix organization",40
+"272","ctenidia","tRNA metabolic process",40
+"273","gonad","tRNA metabolic process",40
+"274","heart","tRNA metabolic process",40
+"275","juvenile","tRNA metabolic process",40
+"276","larvae","tRNA metabolic process",40
+"277","gonad","extracellular matrix organization",39
+"278","heart","renal system process",39
+"279","juvenile","digestive system process",39
+"280","juvenile","vitamin metabolic process",38
+"281","ctenidia","renal system process",37
+"282","larvae","vitamin metabolic process",36
+"283","juvenile","gene silencing by RNA",33
+"284","larvae","digestive system process",33
+"285","ctenidia","vitamin metabolic process",32
+"286","juvenile","endocrine process",32
+"287","larvae","gene silencing by RNA",32
+"288","ctenidia","gene silencing by RNA",31
+"289","heart","gene silencing by RNA",31
+"290","gonad","renal system process",30
+"291","heart","vitamin metabolic process",30
+"292","larvae","endocrine process",30
+"293","ctenidia","protein folding",29
+"294","gonad","protein folding",29
+"295","heart","protein folding",29
+"296","juvenile","protein folding",29
+"297","larvae","protein folding",29
+"298","gonad","gene silencing by RNA",28
+"299","gonad","vitamin metabolic process",28
+"300","heart","digestive system process",28
+"301","ctenidia","mitochondrial gene expression",25
+"302","heart","mitochondrial gene expression",25
+"303","juvenile","mitochondrial gene expression",25
+"304","larvae","mitochondrial gene expression",25
+"305","ctenidia","digestive system process",24
+"306","gonad","mitochondrial gene expression",24
+"307","gonad","digestive system process",23
+"308","heart","endocrine process",23
+"309","ctenidia","endocrine process",21
+"310","gonad","endocrine process",19
+"311","juvenile","detoxification",18
+"312","ctenidia","cytoplasmic translation",17
+"313","ctenidia","detoxification",17
+"314","gonad","cytoplasmic translation",17
+"315","heart","cytoplasmic translation",17
+"316","juvenile","cytoplasmic translation",17
+"317","juvenile","respiratory system process",17
+"318","larvae","cytoplasmic translation",17
+"319","larvae","detoxification",17
+"320","larvae","respiratory system process",17
+"321","ctenidia","respiratory system process",16
+"322","ctenidia","snRNA metabolic process",16
+"323","gonad","snRNA metabolic process",16
+"324","heart","detoxification",16
+"325","heart","respiratory system process",16
+"326","heart","snRNA metabolic process",16
+"327","juvenile","lysosome organization",16
+"328","juvenile","snRNA metabolic process",16
+"329","larvae","lysosome organization",16
+"330","larvae","snRNA metabolic process",16
+"331","ctenidia","lysosome organization",15
+"332","ctenidia","peroxisome organization",15
+"333","heart","lysosome organization",15
+"334","heart","peroxisome organization",15
+"335","juvenile","peroxisome organization",15
+"336","larvae","peroxisome organization",15
+"337","gonad","detoxification",14
+"338","gonad","peroxisome organization",14
+"339","gonad","respiratory system process",14
+"340","gonad","lysosome organization",13
+"341","juvenile","cell wall organization or biogenesis",13
+"342","heart","cell wall organization or biogenesis",12
+"343","larvae","cell wall organization or biogenesis",12
+"344","ctenidia","cell wall organization or biogenesis",11
+"345","gonad","cell wall organization or biogenesis",8
+"346","heart","nitrogen cycle metabolic process",6
+"347","juvenile","nitrogen cycle metabolic process",6
+"348","larvae","nitrogen cycle metabolic process",6
+"349","ctenidia","nitrogen cycle metabolic process",5
+"350","gonad","nitrogen cycle metabolic process",5
+"351","ctenidia","NA",1
+"352","gonad","NA",1
+"353","heart","NA",1
+"354","juvenile","NA",1
+"355","larvae","NA",1
