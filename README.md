@@ -33,4 +33,8 @@ Week 10 - hopefully nothing, prepare for graduation!
 6. Normalize gene counts by % in geoduck transcriptpome 
   - [x] for tissue types (ctenidia, gonad, heart etc....)
   - [x] for species (Mercenaria, Manila) 
+7. Use Heatmaps as a guide for writing discussion
+  - [x] make heatmaps
+  - [ ] write discussion
+
 
