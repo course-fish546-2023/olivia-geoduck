@@ -6,7 +6,7 @@ Week 5 -  added new normalizing gene count column for heatmapping, finished writ
 
 Week 6 - finish writing introduction/discussion for geoduck paper
 
-Week 7 - 
+Week 7 - address edits from committee 
 
 Week 8 - 
 
