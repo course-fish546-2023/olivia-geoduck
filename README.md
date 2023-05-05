@@ -6,7 +6,7 @@ Week 5 -  added new normalizing gene count column for heatmapping, finished writ
 
 Week 6 - finish writing introduction/discussion for geoduck paper
 
-Week 7 - address edits from committee 
+Week 7 - address edits from Steven for CS work, run blast against other clam transcriptomes (step 8) 
 
 Week 8 - 
 
@@ -35,6 +35,12 @@ Week 10 - hopefully nothing, prepare for graduation!
   - [x] for species (Mercenaria, Manila) 
 7. Use Heatmaps as a guide for writing discussion
   - [x] make heatmaps
-  - [ ] write discussion
+  - [x] write discussion
+8. Run blast of Pgen against other clam genomes
+  - [x] M. Mercenaria
+  - [x] M. quadrangularis
+  - [x] R. philippinarum
+  - [x] A. marissinica
+  - [x] S. solida
 
 
