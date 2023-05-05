@@ -1,1 +1,1 @@
-#repoisotry for geoduck project
+#this is my REadme file
