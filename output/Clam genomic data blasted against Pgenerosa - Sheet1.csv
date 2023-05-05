@@ -1,0 +1,6 @@
+Clam Name (db),Common Name,Transcriptome,Genome,Transcriptome Downloaded,Genome Downloaded,Genome Size,Ref genome
+M. Mercenaria,NA,GCF_021730395.1/rna.fna,GCF_021730395.1_MADL_Memer_1_genomic.fna,Pgenerosa_Mercenaria_db_blastx.tab,Pgenerosa_Mercenaria_db_genome_blastn.tab,8736,chromosome
+M. quadrangularis,NA,NA,GCA_025267735.1,NA,Pgenerosa_quadrangularis_db_genome_blastn.tab,874,chromosome
+R. philippinarum,manila clam,philli_ncbi_transcriptoms.fasta,GCA_026571515.1_ASM2657151v1_genomic.fna,Pgenerosa_Manilla_db_blastx.tab,Pgenerosa_manila_db_genome_blastn.tab,2263,contig
+A. marissinica,NA,NA,GCA_014843695.1,NA,Pgenerosa_marissinsa_db_genome_blastn.tab,3268,chromosome
+S. solida,surf clam,NA,GCA_947247005.1_xbSpiSoli1.1_genomic.fna,NA,solida_db_genome_blastn.tab,3268,chromosome
