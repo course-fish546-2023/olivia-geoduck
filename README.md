@@ -6,7 +6,7 @@ Week 5 -  added new normalizing gene count column for heatmapping, finished writ
 
 Week 6 - finish writing introduction/discussion for geoduck paper
 
-Week 7 - address edits from Steven for CS work, run blast against other clam transcriptomes (step 8) 
+Week 7 - address edits from Steven for CS work, run blast against other clam transcriptomes (step 8), make table for compairative clam analysis, update methods and results in geoduck paper 
 
 Week 8 - 
 
@@ -42,5 +42,7 @@ Week 10 - hopefully nothing, prepare for graduation!
   - [x] R. philippinarum
   - [x] A. marissinica
   - [x] S. solida
+9. Make comparative genome table for geoduck paper
+  - done
 
 
