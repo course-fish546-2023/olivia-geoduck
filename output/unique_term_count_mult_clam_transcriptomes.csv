@@ -1,0 +1,342 @@
+"","transcriptome","Term_unique","n"
+"1","Pgenerosa","anatomical structure development",1853
+"2","Pgenerosa","signaling",1603
+"3","Pgenerosa","cell differentiation",1281
+"4","Pgenerosa","DNA-templated transcription",741
+"5","Pgenerosa","regulation of DNA-templated transcription",678
+"6","Pgenerosa","immune system process",670
+"7","Pgenerosa","programmed cell death",600
+"8","Pgenerosa","cell motility",595
+"9","Pgenerosa","reproductive process",536
+"10","Pgenerosa","cytoskeleton organization",516
+"11","Pgenerosa","vesicle-mediated transport",484
+"12","Pgenerosa","protein-containing complex assembly",444
+"13","Pgenerosa","cell adhesion",387
+"14","Pgenerosa","mitotic cell cycle",363
+"15","Pgenerosa","nervous system process",358
+"16","Pgenerosa","lipid metabolic process",352
+"17","Pgenerosa","transmembrane transport",330
+"18","Pgenerosa","protein catabolic process",302
+"19","Pgenerosa","carbohydrate derivative metabolic process",301
+"20","Pgenerosa","defense response to other organism",294
+"21","Pgenerosa","cell junction organization",279
+"22","Pgenerosa","membrane organization",278
+"23","Pgenerosa","intracellular protein transport",219
+"24","Pgenerosa","mRNA metabolic process",197
+"25","Pgenerosa","circulatory system process",189
+"26","Pgenerosa","DNA repair",181
+"27","Pgenerosa","cilium organization",178
+"28","Pgenerosa","nucleobase-containing small molecule metabolic process",172
+"29","Pgenerosa","mitochondrion organization",168
+"30","Pgenerosa","autophagy",161
+"31","Pgenerosa","microtubule-based movement",161
+"32","Pgenerosa","carbohydrate metabolic process",159
+"33","Pgenerosa","chromosome segregation",140
+"34","Pgenerosa","inflammatory response",135
+"35","Pgenerosa","mitotic nuclear division",132
+"36","Pgenerosa","muscle system process",127
+"37","Pgenerosa","DNA recombination",124
+"38","Pgenerosa","chromatin organization",115
+"39","Pgenerosa","sulfur compound metabolic process",109
+"40","Pgenerosa","nucleocytoplasmic transport",108
+"41","Pgenerosa","protein maturation",107
+"42","Pgenerosa","establishment or maintenance of cell polarity",105
+"43","Pgenerosa","generation of precursor metabolites and energy",105
+"44","Pgenerosa","DNA replication",102
+"45","Pgenerosa","wound healing",97
+"46","Pgenerosa","cytokinesis",96
+"47","Pgenerosa","cellular amino acid metabolic process",88
+"48","Pgenerosa","telomere organization",80
+"49","Pgenerosa","meiotic nuclear division",79
+"50","Pgenerosa","cellular modified amino acid metabolic process",76
+"51","Pgenerosa","ribosome biogenesis",69
+"52","Pgenerosa","protein localization to plasma membrane",68
+"53","Pgenerosa","extracellular matrix organization",58
+"54","Pgenerosa","protein glycosylation",55
+"55","Pgenerosa","renal system process",48
+"56","Pgenerosa","digestive system process",41
+"57","Pgenerosa","tRNA metabolic process",40
+"58","Pgenerosa","vitamin metabolic process",38
+"59","Pgenerosa","gene silencing by RNA",34
+"60","Pgenerosa","endocrine process",32
+"61","Pgenerosa","protein folding",29
+"62","Pgenerosa","mitochondrial gene expression",25
+"63","Pgenerosa","detoxification",18
+"64","Pgenerosa","cytoplasmic translation",17
+"65","Pgenerosa","respiratory system process",17
+"66","Pgenerosa","lysosome organization",16
+"67","Pgenerosa","snRNA metabolic process",16
+"68","Pgenerosa","peroxisome organization",15
+"69","Pgenerosa","cell wall organization or biogenesis",13
+"70","Pgenerosa","nitrogen cycle metabolic process",6
+"71","Pgenerosa","NA",1
+"72","Manila","anatomical structure development",129
+"73","Manila","signaling",113
+"74","Manila","cell differentiation",86
+"75","Manila","cytoskeleton organization",65
+"76","Manila","DNA-templated transcription",51
+"77","Manila","reproductive process",48
+"78","Manila","regulation of DNA-templated transcription",47
+"79","Manila","cell motility",40
+"80","Manila","programmed cell death",40
+"81","Manila","protein-containing complex assembly",39
+"82","Manila","immune system process",36
+"83","Manila","mitotic cell cycle",33
+"84","Manila","vesicle-mediated transport",29
+"85","Manila","cilium organization",28
+"86","Manila","protein catabolic process",28
+"87","Manila","nervous system process",27
+"88","Manila","microtubule-based movement",25
+"89","Manila","mRNA metabolic process",23
+"90","Manila","transmembrane transport",21
+"91","Manila","cell adhesion",18
+"92","Manila","carbohydrate derivative metabolic process",17
+"93","Manila","DNA repair",16
+"94","Manila","cell junction organization",16
+"95","Manila","membrane organization",15
+"96","Manila","nucleobase-containing small molecule metabolic process",15
+"97","Manila","lipid metabolic process",14
+"98","Manila","autophagy",12
+"99","Manila","chromosome segregation",12
+"100","Manila","defense response to other organism",12
+"101","Manila","generation of precursor metabolites and energy",11
+"102","Manila","cytokinesis",10
+"103","Manila","mitotic nuclear division",10
+"104","Manila","chromatin organization",9
+"105","Manila","establishment or maintenance of cell polarity",9
+"106","Manila","intracellular protein transport",9
+"107","Manila","DNA recombination",8
+"108","Manila","DNA replication",8
+"109","Manila","circulatory system process",8
+"110","Manila","ribosome biogenesis",8
+"111","Manila","carbohydrate metabolic process",7
+"112","Manila","cellular amino acid metabolic process",7
+"113","Manila","nucleocytoplasmic transport",7
+"114","Manila","muscle system process",6
+"115","Manila","protein localization to plasma membrane",6
+"116","Manila","telomere organization",6
+"117","Manila","gene silencing by RNA",5
+"118","Manila","inflammatory response",5
+"119","Manila","mitochondrion organization",5
+"120","Manila","cellular modified amino acid metabolic process",4
+"121","Manila","sulfur compound metabolic process",4
+"122","Manila","tRNA metabolic process",4
+"123","Manila","cytoplasmic translation",3
+"124","Manila","meiotic nuclear division",3
+"125","Manila","wound healing",3
+"126","Manila","extracellular matrix organization",2
+"127","Manila","protein folding",2
+"128","Manila","protein maturation",2
+"129","Manila","snRNA metabolic process",2
+"130","Manila","NA",1
+"131","Manila","detoxification",1
+"132","Manila","lysosome organization",1
+"133","Manila","nitrogen cycle metabolic process",1
+"134","Manila","protein glycosylation",1
+"135","Manila","renal system process",1
+"136","Manila","respiratory system process",1
+"137","Manila_r","anatomical structure development",149
+"138","Manila_r","signaling",126
+"139","Manila_r","cell differentiation",96
+"140","Manila_r","cytoskeleton organization",68
+"141","Manila_r","DNA-templated transcription",60
+"142","Manila_r","regulation of DNA-templated transcription",55
+"143","Manila_r","reproductive process",55
+"144","Manila_r","programmed cell death",44
+"145","Manila_r","immune system process",42
+"146","Manila_r","protein-containing complex assembly",42
+"147","Manila_r","cell motility",41
+"148","Manila_r","mitotic cell cycle",36
+"149","Manila_r","vesicle-mediated transport",35
+"150","Manila_r","nervous system process",32
+"151","Manila_r","protein catabolic process",31
+"152","Manila_r","cilium organization",30
+"153","Manila_r","microtubule-based movement",27
+"154","Manila_r","mRNA metabolic process",26
+"155","Manila_r","transmembrane transport",25
+"156","Manila_r","cell adhesion",21
+"157","Manila_r","cell junction organization",20
+"158","Manila_r","DNA repair",19
+"159","Manila_r","carbohydrate derivative metabolic process",17
+"160","Manila_r","lipid metabolic process",17
+"161","Manila_r","membrane organization",17
+"162","Manila_r","defense response to other organism",16
+"163","Manila_r","nucleobase-containing small molecule metabolic process",15
+"164","Manila_r","cytokinesis",13
+"165","Manila_r","autophagy",12
+"166","Manila_r","chromosome segregation",12
+"167","Manila_r","generation of precursor metabolites and energy",12
+"168","Manila_r","DNA replication",11
+"169","Manila_r","chromatin organization",11
+"170","Manila_r","circulatory system process",10
+"171","Manila_r","establishment or maintenance of cell polarity",10
+"172","Manila_r","intracellular protein transport",10
+"173","Manila_r","DNA recombination",9
+"174","Manila_r","cellular amino acid metabolic process",9
+"175","Manila_r","mitotic nuclear division",9
+"176","Manila_r","nucleocytoplasmic transport",8
+"177","Manila_r","ribosome biogenesis",8
+"178","Manila_r","carbohydrate metabolic process",7
+"179","Manila_r","protein localization to plasma membrane",7
+"180","Manila_r","gene silencing by RNA",6
+"181","Manila_r","inflammatory response",6
+"182","Manila_r","mitochondrion organization",6
+"183","Manila_r","muscle system process",6
+"184","Manila_r","telomere organization",6
+"185","Manila_r","sulfur compound metabolic process",5
+"186","Manila_r","cellular modified amino acid metabolic process",4
+"187","Manila_r","cytoplasmic translation",4
+"188","Manila_r","meiotic nuclear division",4
+"189","Manila_r","tRNA metabolic process",4
+"190","Manila_r","snRNA metabolic process",3
+"191","Manila_r","wound healing",3
+"192","Manila_r","extracellular matrix organization",2
+"193","Manila_r","protein folding",2
+"194","Manila_r","protein maturation",2
+"195","Manila_r","NA",1
+"196","Manila_r","detoxification",1
+"197","Manila_r","lysosome organization",1
+"198","Manila_r","nitrogen cycle metabolic process",1
+"199","Manila_r","protein glycosylation",1
+"200","Manila_r","renal system process",1
+"201","Manila_r","respiratory system process",1
+"202","Mercenaria","anatomical structure development",247
+"203","Mercenaria","signaling",189
+"204","Mercenaria","cell differentiation",170
+"205","Mercenaria","DNA-templated transcription",88
+"206","Mercenaria","cytoskeleton organization",87
+"207","Mercenaria","cell motility",83
+"208","Mercenaria","regulation of DNA-templated transcription",82
+"209","Mercenaria","reproductive process",71
+"210","Mercenaria","immune system process",66
+"211","Mercenaria","programmed cell death",63
+"212","Mercenaria","vesicle-mediated transport",62
+"213","Mercenaria","protein-containing complex assembly",58
+"214","Mercenaria","nervous system process",48
+"215","Mercenaria","mitotic cell cycle",47
+"216","Mercenaria","cilium organization",46
+"217","Mercenaria","cell adhesion",44
+"218","Mercenaria","lipid metabolic process",40
+"219","Mercenaria","protein catabolic process",39
+"220","Mercenaria","carbohydrate derivative metabolic process",38
+"221","Mercenaria","microtubule-based movement",37
+"222","Mercenaria","cell junction organization",36
+"223","Mercenaria","membrane organization",35
+"224","Mercenaria","transmembrane transport",34
+"225","Mercenaria","DNA repair",30
+"226","Mercenaria","mRNA metabolic process",28
+"227","Mercenaria","intracellular protein transport",24
+"228","Mercenaria","defense response to other organism",23
+"229","Mercenaria","carbohydrate metabolic process",22
+"230","Mercenaria","nucleobase-containing small molecule metabolic process",22
+"231","Mercenaria","circulatory system process",21
+"232","Mercenaria","autophagy",20
+"233","Mercenaria","cytokinesis",19
+"234","Mercenaria","establishment or maintenance of cell polarity",17
+"235","Mercenaria","chromatin organization",16
+"236","Mercenaria","nucleocytoplasmic transport",16
+"237","Mercenaria","DNA recombination",15
+"238","Mercenaria","chromosome segregation",15
+"239","Mercenaria","DNA replication",14
+"240","Mercenaria","generation of precursor metabolites and energy",14
+"241","Mercenaria","protein localization to plasma membrane",14
+"242","Mercenaria","cellular amino acid metabolic process",11
+"243","Mercenaria","mitochondrion organization",11
+"244","Mercenaria","mitotic nuclear division",11
+"245","Mercenaria","inflammatory response",10
+"246","Mercenaria","sulfur compound metabolic process",10
+"247","Mercenaria","protein maturation",9
+"248","Mercenaria","tRNA metabolic process",9
+"249","Mercenaria","muscle system process",8
+"250","Mercenaria","telomere organization",8
+"251","Mercenaria","cytoplasmic translation",6
+"252","Mercenaria","extracellular matrix organization",6
+"253","Mercenaria","protein glycosylation",6
+"254","Mercenaria","cellular modified amino acid metabolic process",5
+"255","Mercenaria","gene silencing by RNA",5
+"256","Mercenaria","meiotic nuclear division",5
+"257","Mercenaria","ribosome biogenesis",5
+"258","Mercenaria","endocrine process",4
+"259","Mercenaria","vitamin metabolic process",4
+"260","Mercenaria","wound healing",4
+"261","Mercenaria","lysosome organization",3
+"262","Mercenaria","mitochondrial gene expression",3
+"263","Mercenaria","nitrogen cycle metabolic process",3
+"264","Mercenaria","detoxification",2
+"265","Mercenaria","digestive system process",2
+"266","Mercenaria","renal system process",2
+"267","Mercenaria","respiratory system process",2
+"268","Mercenaria","snRNA metabolic process",2
+"269","Mercenaria","NA",1
+"270","Mercenaria","peroxisome organization",1
+"271","Mercenaria_r","anatomical structure development",768
+"272","Mercenaria_r","signaling",635
+"273","Mercenaria_r","cell differentiation",517
+"274","Mercenaria_r","DNA-templated transcription",267
+"275","Mercenaria_r","regulation of DNA-templated transcription",245
+"276","Mercenaria_r","cell motility",241
+"277","Mercenaria_r","cytoskeleton organization",237
+"278","Mercenaria_r","immune system process",232
+"279","Mercenaria_r","programmed cell death",229
+"280","Mercenaria_r","vesicle-mediated transport",218
+"281","Mercenaria_r","reproductive process",202
+"282","Mercenaria_r","protein-containing complex assembly",174
+"283","Mercenaria_r","cell adhesion",163
+"284","Mercenaria_r","nervous system process",153
+"285","Mercenaria_r","lipid metabolic process",152
+"286","Mercenaria_r","mitotic cell cycle",142
+"287","Mercenaria_r","transmembrane transport",133
+"288","Mercenaria_r","carbohydrate derivative metabolic process",131
+"289","Mercenaria_r","membrane organization",118
+"290","Mercenaria_r","cell junction organization",114
+"291","Mercenaria_r","protein catabolic process",111
+"292","Mercenaria_r","defense response to other organism",101
+"293","Mercenaria_r","cilium organization",99
+"294","Mercenaria_r","intracellular protein transport",85
+"295","Mercenaria_r","DNA repair",82
+"296","Mercenaria_r","mRNA metabolic process",81
+"297","Mercenaria_r","carbohydrate metabolic process",77
+"298","Mercenaria_r","microtubule-based movement",76
+"299","Mercenaria_r","nucleobase-containing small molecule metabolic process",74
+"300","Mercenaria_r","circulatory system process",70
+"301","Mercenaria_r","autophagy",63
+"302","Mercenaria_r","mitochondrion organization",60
+"303","Mercenaria_r","chromosome segregation",53
+"304","Mercenaria_r","DNA recombination",52
+"305","Mercenaria_r","chromatin organization",48
+"306","Mercenaria_r","generation of precursor metabolites and energy",46
+"307","Mercenaria_r","DNA replication",45
+"308","Mercenaria_r","nucleocytoplasmic transport",44
+"309","Mercenaria_r","inflammatory response",43
+"310","Mercenaria_r","mitotic nuclear division",43
+"311","Mercenaria_r","cytokinesis",42
+"312","Mercenaria_r","muscle system process",42
+"313","Mercenaria_r","sulfur compound metabolic process",42
+"314","Mercenaria_r","establishment or maintenance of cell polarity",41
+"315","Mercenaria_r","protein localization to plasma membrane",41
+"316","Mercenaria_r","cellular amino acid metabolic process",38
+"317","Mercenaria_r","protein maturation",38
+"318","Mercenaria_r","cellular modified amino acid metabolic process",30
+"319","Mercenaria_r","meiotic nuclear division",30
+"320","Mercenaria_r","wound healing",30
+"321","Mercenaria_r","ribosome biogenesis",25
+"322","Mercenaria_r","telomere organization",25
+"323","Mercenaria_r","protein glycosylation",23
+"324","Mercenaria_r","tRNA metabolic process",19
+"325","Mercenaria_r","extracellular matrix organization",16
+"326","Mercenaria_r","gene silencing by RNA",15
+"327","Mercenaria_r","protein folding",15
+"328","Mercenaria_r","cytoplasmic translation",12
+"329","Mercenaria_r","endocrine process",12
+"330","Mercenaria_r","vitamin metabolic process",12
+"331","Mercenaria_r","renal system process",10
+"332","Mercenaria_r","respiratory system process",8
+"333","Mercenaria_r","lysosome organization",7
+"334","Mercenaria_r","detoxification",6
+"335","Mercenaria_r","digestive system process",6
+"336","Mercenaria_r","mitochondrial gene expression",4
+"337","Mercenaria_r","nitrogen cycle metabolic process",4
+"338","Mercenaria_r","snRNA metabolic process",4
+"339","Mercenaria_r","peroxisome organization",3
+"340","Mercenaria_r","cell wall organization or biogenesis",2
+"341","Mercenaria_r","NA",1
