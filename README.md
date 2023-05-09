@@ -1,5 +1,5 @@
 # olivia-geoduck
-repository for my geoduck transcriptomic project 
+repository for my geoduck transcriptome project 
 
 ## Plan for the next 4 weeks: 
 Week 5 -  added new normalizing gene count column for heatmapping, finished writing draft 1 of results, working on methods, finish introduction
