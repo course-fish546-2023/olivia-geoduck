@@ -1,5 +1,10 @@
 # olivia-geoduck
-repository for my geoduck transcriptome project 
+
+Now defunct repository for FISH 546 research progress...cannot push or pull off raven so this repository is useless to me now
+
+
+
+
 
 ## Plan for the next 4 weeks: 
 Week 5 -  added new normalizing gene count column for heatmapping, finished writing draft 1 of results, working on methods, finish introduction
