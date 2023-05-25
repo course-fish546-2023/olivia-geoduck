@@ -13,9 +13,9 @@ Week 6 - finish writing introduction/discussion for geoduck paper
 
 Week 7 - address edits from Steven for CS work, run blast against other clam transcriptomes (step 8), make table for compairative clam analysis, update methods and results in geoduck paper 
 
-Week 8 - 
+Week 8 - find and blast female oyster gonad tissue libaries against P.gen
 
-Week 9 - 
+Week 9 - address all edits and do data anlysis for Week 8 
 
 Week 10 - hopefully nothing, prepare for graduation!
 
