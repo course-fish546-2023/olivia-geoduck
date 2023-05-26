@@ -1,7 +1,8 @@
 # olivia-geoduck
 
-Now defunct repository for FISH 546 research progress...cannot push or pull off raven so this repository is useless to me now
+Repository used for displaying geoduck bioinformatic workflow for FISH 546 purposes
 
+Clean repository used for research: https://github.com/ocattau/code-for-Pgenerosa/tree/main
 
 
 
