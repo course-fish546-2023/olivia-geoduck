@@ -1,5 +1,7 @@
 # olivia-geoduck
 
+https://rpubs.com/ocattau/1046332
+
 Repository used for displaying geoduck bioinformatic workflow for FISH 546 purposes
 
 Clean repository used for research: https://github.com/ocattau/code-for-Pgenerosa/tree/main
