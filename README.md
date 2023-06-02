@@ -1,5 +1,8 @@
 # olivia-geoduck
 
+Zenodo archive: [![DOI](https://zenodo.org/badge/624980498.svg)](https://zenodo.org/badge/latestdoi/624980498)
+
+
 https://rpubs.com/ocattau/1046332
 
 Repository used for displaying geoduck bioinformatic workflow for FISH 546 purposes
