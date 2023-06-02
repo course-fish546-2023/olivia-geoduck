@@ -55,5 +55,19 @@ Week 10 - hopefully nothing, prepare for graduation!
   - [x] S. solida
 9. Make comparative genome table for geoduck paper
   - done
+10. Comparative gonad genome w/ c. gigas
+  - [x] download gonad genes from Neilly 2012.
+  - [x] Run blast against P. generosa genome
+  - [x] filter by reproductive stage
+  - [ ] make table with go slims attached
+  - [ ] describe results
+
+
+*old Rpubs*
+clean research report:
+https://rpubs.com/ocattau/1041480
+
+annotated R script: 
+https://rpubs.com/ocattau/1041088
 
 
