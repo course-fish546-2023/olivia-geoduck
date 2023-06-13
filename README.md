@@ -5,7 +5,7 @@ Zenodo archive: [![DOI](https://zenodo.org/badge/624980498.svg)](https://zenodo.
 
 https://rpubs.com/ocattau/1046332
 
-Repository used for displaying geoduck bioinformatic workflow for FISH 546 purposes
+Repository used for displaying geoduck bioinformatic workflow for final thesis purposes
 
 Clean repository used for research: https://github.com/ocattau/code-for-Pgenerosa/tree/main
 
