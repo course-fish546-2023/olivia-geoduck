@@ -5,25 +5,12 @@ Zenodo archive: [![DOI](https://zenodo.org/badge/624980498.svg)](https://zenodo.
 
 https://rpubs.com/ocattau/1046332
 
-Repository used for displaying geoduck bioinformatic workflow for FISH 546 purposes
+Repository used for displaying geoduck bioinformatic workflow for final thesis purposes
 
 Clean repository used for research: https://github.com/ocattau/code-for-Pgenerosa/tree/main
 
 
 
-
-## Plan for the next 4 weeks: 
-Week 5 -  added new normalizing gene count column for heatmapping, finished writing draft 1 of results, working on methods, finish introduction
-
-Week 6 - finish writing introduction/discussion for geoduck paper
-
-Week 7 - address edits from Steven for CS work, run blast against other clam transcriptomes (step 8), make table for compairative clam analysis, update methods and results in geoduck paper 
-
-Week 8 - find and blast female oyster gonad tissue libaries against P.gen
-
-Week 9 - address all edits and do data anlysis for Week 8 
-
-Week 10 - hopefully nothing, prepare for graduation!
 
 ## Steps:
 
@@ -59,8 +46,8 @@ Week 10 - hopefully nothing, prepare for graduation!
   - [x] download gonad genes from Neilly 2012.
   - [x] Run blast against P. generosa genome
   - [x] filter by reproductive stage
-  - [ ] make table with go slims attached
-  - [ ] describe results
+  - [x] make table with go slims attached
+  - [x] describe results
 
 
 *old Rpubs*
